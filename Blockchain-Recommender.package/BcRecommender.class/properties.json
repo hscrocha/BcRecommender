@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "HenriqueRocha 9/25/2017 15:46",
+	"super" : "Object",
+	"category" : "Blockchain-Recommender",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "BcRecommender",
+	"type" : "normal"
+}
